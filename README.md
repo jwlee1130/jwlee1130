@@ -13,3 +13,6 @@
 
 <br>**Interests**
 <br>**Infra/Tools**
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwlee1130&layout=compact)
+![jwlee1130's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwlee1130&show_icons=true&theme=tokyonight)
